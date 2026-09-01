@@ -4,7 +4,7 @@
 
 - 🎓 Atualmente estudando **Python e Web Development**
 - 💡 Buscando oportunidades para colaborar em projetos *open-source*
-- 📫 Como me encontrar: **pietro.bellan@edu.senai.br** | 
+- 📫 Como me encontrar: **pietro.bellan@edu.senai.br**
 
 ---
 
