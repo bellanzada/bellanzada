@@ -26,7 +26,6 @@
 
 # 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bellanzada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellanzada&layout=compact&theme=tokyonight"/>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bellanzada&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bellanzada&theme=tokyonight)
