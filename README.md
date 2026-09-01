@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o **Pietro Bellan**!
 
-🚀 **Desenvolvedor em formação** apaixonado por tecnologia e resolução de problemas.
+🚀 ** so sei IA Desenvolvedor em formação** apaixonado por tecnologia e resolução de problemas.
 
 - 🎓 Atualmente estudando **Python e Web Development**
 - 💡 Buscando oportunidades para colaborar em projetos *open-source*
