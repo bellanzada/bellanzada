@@ -26,6 +26,6 @@
 
 # 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bellanzada&show_icons=true&theme=tokyonight&v=1)
+![Estatísticas de bellanzada](https://github-readme-stats-git-masterrst-anurag-hazrikas-projects.vercel.app/api?username=bellanzada&show_icons=true&theme=tokyonight)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bellanzada&theme=tokyonight&v=1)
+![Linguagens de bellanzada](https://github-readme-stats-git-masterrst-anurag-hazrikas-projects.vercel.app/api/top-langs/?username=bellanzada&theme=tokyonight)
