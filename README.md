@@ -24,8 +24,6 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📊 Linguagens Mais Utilizadas
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bellanzada&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bellanzada&show_icons=true&theme=tokyonight)
+![Linguagens Mais Utilizadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bellanzada&theme=tokyonight&layout=compact)
