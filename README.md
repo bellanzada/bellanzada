@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o [Pietro Bellan]!
+# 👋 Olá, eu sou o **Pietro Bellan**!
 
 🚀 **Desenvolvedor(a) em formação** apaixonado(a) por tecnologia e resolução de problemas.
 
@@ -27,6 +27,6 @@
 # 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bellanzada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellanzada&layout=compact&theme=tokyonight"/>
 </div>
